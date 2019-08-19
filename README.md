@@ -13,3 +13,4 @@ La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en prác
 4) En el archivo ```ListaM6A.txt``` o ```ListaM6B.txt```, buscar su nombre y escribir su usuario de github a continuación del mismo.  
 5) Hacer ***push*** con sus cambios al repositorio.  
 6) Hacer un ***pull request*** al repositorio original.
+7) HOla
